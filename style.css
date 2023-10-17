@@ -20,14 +20,21 @@ body {
     border-bottom: 1px solid #1E1E1E;
 }
 
-.header h5 {
+.navBar {
     color: #ffffff;
     cursor: pointer;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
 }
-
+.navBar li {
+    display: inline-block;
+    margin-right: 20px;
+}
 #headerLogo {
     padding-right: 400px;
-    padding-left: 100px;
+    padding-left: 30px;
+    margin-top: -10px;
 }
 
 .presentationSeccion {
