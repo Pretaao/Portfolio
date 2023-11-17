@@ -11,7 +11,7 @@
     --primary-color: #4dff91;
     --error-color: #ff0043;
   }
-  
+
   body {
     background-color: var(--bg-color);
     color: var(--font-color);
@@ -26,6 +26,16 @@
     position: relative;
   }
   
+ .backBtn {
+  color: var(--font-color);
+  font-family: "Ubuntu", sans-serif;
+  text-decoration: none;
+ }
+
+ .backBtn:hover{
+  color: #666666;
+ }
+
   header {
     padding: 2rem 0;
   }
