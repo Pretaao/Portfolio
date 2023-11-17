@@ -1,5 +1,5 @@
 # Portfolio
-Meu primeiro portfolio profissional em HTML+CSS (em breve Javascript)
+Meu primeiro portfolio profissional em HTML+CSS+Js
 # Landing Page HTML e CSS
 
 Este é o código-fonte de uma página de destino (landing page) em HTML e CSS. A página inclui informações sobre um desenvolvedor front-end, seus conhecimentos e formas de contato.
@@ -20,6 +20,7 @@ Este é o código-fonte de uma página de destino (landing page) em HTML e CSS. 
 
 - HTML
 - CSS
+- Javascript
 
 ## Contato
 
